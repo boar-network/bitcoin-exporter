@@ -3,7 +3,7 @@
 ## Our Docker image
 
 Boar Network stores Docker image for this repository in:
-https://hub.docker.com/r/boarnetwork/bitcoin-exporter
+https://github.com/orgs/boar-network/packages
 
 > Docker tag matches Git tag.
 
